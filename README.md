@@ -1,6 +1,6 @@
 # SVNIT_MLIP
-Capsule Endoscopy
-# Project Name
+
+# Capsule Endoscopy
 
 ## Evaluation Metrics
 
@@ -139,3 +139,9 @@ Capsule Endoscopy
 1. ![Interpretability Plot 1](Images_README/testing_dataset2_interpretability_plot_1.png)
 
 2. ![Interpretability Plot 2](Images_README/testing_dataset2_interpretability_plot_2.png)
+
+# Training Procedure
+Using training.py and config.yaml, you can train model using train_model function which takes model destination path (model_path), config.yaml file (config_yaml), epochs(total_epochs), image size (image_size) and device type (device_) as input and trains the model.
+
+# Prediction procedure
+For prediction use function prediction which is present in prediction.py. This function takes the model destination path, test data directory path as input, and returns boundary box parameters as output.
