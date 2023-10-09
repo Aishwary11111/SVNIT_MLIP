@@ -33,7 +33,7 @@
 |**Images** | <img src="Images_README\validation_dataset\classification_and_detection\img- (608).png" alt="Image 1">| <img src="Images_README\validation_dataset\classification_and_detection\img- (609).png" alt="Image 1">|<img src="Images_README\validation_dataset\classification_and_detection\img- (797).png" alt="Image 1">| <img src="Images_README\validation_dataset\classification_and_detection\img- (908).png" alt="Image 1">|<img src="Images_README\validation_dataset\classification_and_detection\img- (912).png" alt="Image 1">|
 |**Confidance**| 0.96 | 0.96 |0.97 | 0.97 |0.97 |
 
-## Interpretability Plots (Cam Plots)
+## Interpretability Plots (Cam Plots of 2nd last layer)
 
 | **Imagename** | **img- (271).png** | **img- (386).png**|**img- (389).png**|**img- (406).png**|**img- (409).png**|
 |------ |---------------------|---------------------|---------------------|---------------------|---------------------|
@@ -52,7 +52,7 @@
 |**Images** | <img src="Images_README\testing_dataset_1\Classification_and_detection\A0001.png" alt="Image 1">| <img src="Images_README\testing_dataset_1\Classification_and_detection\A0033.png" alt="Image 1">|<img src="Images_README\testing_dataset_1\Classification_and_detection\A0035.png" alt="Image 1">| <img src="Images_README\testing_dataset_1\Classification_and_detection\A0040.png" alt="Image 1">|<img src="Images_README\testing_dataset_1\Classification_and_detection\A0041.png" alt="Image 1">|
 |**Confidance**| 0.29 | 0.75 |0.44 | 0.37 | 0.27 |
 
-## Interpretability Plots (Cam Plots)                                                                                                         
+## Interpretability Plots (Cam Plots of 2nd last layer)                                                                                                         
 | **Imagename** | **A0001_cam.png** | **A0033_cam.png**|**A0035_cam.png**|**A0040_cam.png**|**A0041_cam.png**|
 |------ |---------------------|---------------------|---------------------|---------------------|---------------------|
 |**Images** | <img src="Images_README\testing_dataset_1\Interpretability_plots\A0001_cam.png" alt="Image 1">| <img src="Images_README\testing_dataset_1\Interpretability_plots\A0033_cam.png" alt="Image 1">|<img src="Images_README\testing_dataset_1\Interpretability_plots\A0035_cam.png" alt="Image 1">| <img src="Images_README\testing_dataset_1\Interpretability_plots\A0040_cam.png" alt="Image 1">|<img src="Images_README\testing_dataset_1\Interpretability_plots\A0041_cam.png" alt="Image 1">|
@@ -65,7 +65,7 @@
 |**Images** | <img src="Images_README\testing_dataset_2\classification_and_detection\A0211.png" alt="Image 1">| <img src="Images_README\testing_dataset_2\classification_and_detection\A0498.png" alt="Image 1">|<img src="Images_README\testing_dataset_2\classification_and_detection\A0500.png" alt="Image 1">| <img src="Images_README\testing_dataset_2\classification_and_detection\A0532.png" alt="Image 1">|<img src="Images_README\testing_dataset_2\classification_and_detection\A0551.png" alt="Image 1">|
 |**Confidance**| 0.27 | 0.28 |0.62 | 0.27 |0.32 |
 
-## Interpretability Plots (Cam Plots)                                                                                                         
+## Interpretability Plots (Cam Plots of 2nd last layer)                                                                                                         
 | **Imagename** | **A0211_cam.png** | **A0498_cam.png**|**A0500_cam.png**|**A0532_cam.png**|**A0551_cam.png**|
 |------ |---------------------|---------------------|---------------------|---------------------|---------------------|
 |**Images** | <img src="Images_README\testing_dataset_2\Interpretability_plots\A0211_cam.png" alt="Image 1">| <img src="Images_README\testing_dataset_2\Interpretability_plots\A0498_cam.png" alt="Image 1">|<img src="Images_README\testing_dataset_2\Interpretability_plots\A0500_cam.png" alt="Image 1">| <img src="Images_README\testing_dataset_2\Interpretability_plots\A0532_cam.png" alt="Image 1">|<img src="Images_README\testing_dataset_2\Interpretability_plots\A0551_cam.png" alt="Image 1">|
