@@ -89,19 +89,19 @@
    Confidence: 0.29
 
 2. A0033 <br/>
-   <img src="Images_README/testing_dataset_1/classification_and_detection/A0033.png" alt="Image 1" width="350" height="350"><br/> 
+   <img src="Images_README/testing_dataset_1/Classification_and_detection/A0033.png" alt="Image 1" width="350" height="350"><br/> 
    Confidence: 0.75
 
 3. A0035 <br/>
-   <img src="Images_README/testing_dataset_1/classification_and_detection/A0035.png" alt="Image 1" width="350" height="350"><br/> 
+   <img src="Images_README/testing_dataset_1/Classification_and_detection/A0035.png" alt="Image 1" width="350" height="350"><br/> 
    Confidence: 0.44
 
 4. A0040 <br/>
-   <img src="Images_README/testing_dataset_1/classification_and_detection/A0040.png" alt="Image 1" width="350" height="350"><br/> 
+   <img src="Images_README/testing_dataset_1/Classification_and_detection/A0040.png" alt="Image 1" width="350" height="350"><br/> 
    Confidence: 0.37
 
 5. A0041 <br/>
-   <img src="Images_README/testing_dataset_1/classification_and_detection/A0041.png" alt="Image 1" width="350" height="350"><br/> 
+   <img src="Images_README/testing_dataset_1/Classification_and_detection/A0041.png" alt="Image 1" width="350" height="350"><br/> 
    Confidence: 
 
 ### Interpretability Plots (Cam Plots)
