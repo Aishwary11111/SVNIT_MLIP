@@ -1,6 +1,6 @@
-path: /home/ares/MISAHUB/yolo_v8/	# Specify the path to your model
-train: train/						# Specify the training directory
-val: valid/							# Specify the validation directory (Mandatory if training the model)
+path: /home/ares/Desktop/MISAHUB_submission/git_repo/ # Specify the absolute path to directory containing training and validation set directories
+train: train_75/ # Specify the training directory
+val: val_75/ # Specify the validation directory (Mandatory if training the model)
 
 # Classes 
 nc: 1 # replace based on your dataset's number of classes 
