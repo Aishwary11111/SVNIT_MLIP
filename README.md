@@ -53,9 +53,9 @@
 |**Confidance**| 0.29 | 0.75 |0.44 | 0.37 | 0.27 |
 
 ## Interpretability Plots (Cam Plots)                                                                                                         
-| **Imagename** | **A0001_cam.png.png** | **A0041_cam.png**|
-|------ |---------------------|---------------------|
-|**Images** | <img src="Images_README\testing_dataset_1\Interpretability_plots\A0001_cam.png" alt="Image 1">| <img src="Images_README\testing_dataset_1\Interpretability_plots\A0041_cam.png" alt="Image 1">|
+| **Imagename** | **A0001_cam.png** | **A0033_cam.png**|**A0035_cam.png**|**A0040_cam.png**|**A0041_cam.png**|
+|------ |---------------------|---------------------|---------------------|---------------------|---------------------|
+|**Images** | <img src="Images_README\testing_dataset_1\Interpretability_plots\A0001_cam.png" alt="Image 1">| <img src="Images_README\testing_dataset_1\Interpretability_plots\A0033_cam.png" alt="Image 1">|<img src="Images_README\testing_dataset_1\Interpretability_plots\A0035_cam.png" alt="Image 1">| <img src="Images_README\testing_dataset_1\Interpretability_plots\A0040_cam.png" alt="Image 1">|<img src="Images_README\testing_dataset_1\Interpretability_plots\A0041_cam.png" alt="Image 1">|
 
 # Testing Dataset 2
 ## Detection and Classification
@@ -66,12 +66,14 @@
 |**Confidance**| 0.27 | 0.28 |0.62 | 0.27 |0.32 |
 
 ## Interpretability Plots (Cam Plots)                                                                                                         
-| **Imagename** | **A0500_cam.png** | **A0532_cam.png**|
-|------ |---------------------|---------------------|
-|**Images** | <img src="Images_README\testing_dataset_2\Interpretability_plots\A0500_cam.png" alt="Image 1">| <img src="Images_README\testing_dataset_2\Interpretability_plots\A0532_cam.png" alt="Image 1">|
+| **Imagename** | **A0211_cam.png** | **A0498_cam.png**|**A0500_cam.png**|**A0532_cam.png**|**A0551_cam.png**|
+|------ |---------------------|---------------------|---------------------|---------------------|---------------------|
+|**Images** | <img src="Images_README\testing_dataset_2\Interpretability_plots\A0211_cam.png" alt="Image 1">| <img src="Images_README\testing_dataset_2\Interpretability_plots\A0498_cam.png" alt="Image 1">|<img src="Images_README\testing_dataset_2\Interpretability_plots\A0500_cam.png" alt="Image 1">| <img src="Images_README\testing_dataset_2\Interpretability_plots\A0532_cam.png" alt="Image 1">|<img src="Images_README\testing_dataset_2\Interpretability_plots\A0551_cam.png" alt="Image 1">|
 
 # Training Procedure
-Using training.py and config.yaml, you can train model using train_model function which takes model destination path (model_path), config.yaml file (config_yaml), epochs(total_epochs), image size (image_size) and device type (device_) as input and trains the model.
+Using training.ipynb and config.yaml, you can train model using train_model function which takes model destination path (model_path), config.yaml file (config_yaml), epochs(total_epochs), image size (image_size) and device type (device_) as input and trains the model.
+
+**Note:** Please give full path of you dataset in config.yaml instead of giving relative path.
 
 # Prediction procedure
-For prediction use function prediction which is present in prediction.py. This function takes the model destination path, test data directory path as input, and returns boundary box parameters as output.
+For prediction use function prediction which is present in prediction.ipynb. This function takes the model destination path, test data directory path as input, and returns boundary box parameters as output.
