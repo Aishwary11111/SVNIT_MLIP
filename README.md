@@ -5,15 +5,15 @@
 ## Evaluation Metrics
 
  ### Classification Metrics
-| Metric      | Value    |
-|-------------|----------|
-| Accuracy    |   0.4937 |
-| Recall      |   0.5753 |
-| F1-Score    |   0.661  |
+| Metric (in probability)| Value    |
+|------------------------|----------|
+| Accuracy               |   0.4937 |
+| Recall                 |   0.5753 |
+| F1-Score               |   0.661  |
 
 
 ### Detection Metrics
-| Metric                 | Value          |
+| Metric (in probability)| Value          |
 |------------------------|----------------|
 | Average Precision      |     0.5081     |
 | Mean Average Precision |     0.652      |
