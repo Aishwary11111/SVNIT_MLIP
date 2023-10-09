@@ -7,17 +7,17 @@
  ### Classification Metrics
 | Metric      | Value    |
 |-------------|----------|
-| Accuracy    |   1.00   |
-| Recall      |   1.00   |
-| F1-Score    |   1.00   |
+| Accuracy    |   0.4937   |
+| Recall      |   0.5753   |
+| F1-Score    |   0.661 |
 
 
 ### Detection Metrics
 | Metric                 | Value          |
 |------------------------|----------------|
-| Average Precision      |           |
-| Mean Average Precision |           |
-| Intersection over Union|           |
+| Average Precision      |       0.5081         |
+| Mean Average Precision |     0.652       |
+| Intersection over Union|     0.4937   |
 
 ## In Validation Dataset
 
