@@ -80,7 +80,7 @@ For prediction use function prediction which is present in prediction.ipynb. Thi
 
 # Project Team
 
-<img src="Images_README\team.jpg" alt="Image 1" width="60%">
+<img src="Images_README\team.jpg" alt="Image 1" width="50%">
 <br/><br/>
 
 Team Members:
