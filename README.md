@@ -78,6 +78,11 @@ Using training.ipynb and config.yaml, you can train model using train_model func
 # Prediction procedure
 For prediction use function prediction which is present in prediction.ipynb. This function takes the model destination path, test data directory path as input, and returns boundary box parameters as output.
 
+# Certificate for Participation
+
+<img src="Images_README\30475193119146.png" alt="Image 1" width="100%">
+<br/><br/>
+
 # Project Team
 
 <img src="Images_README\team.jpg" alt="Image 1" width="50%">
