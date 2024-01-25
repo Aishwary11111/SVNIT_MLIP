@@ -73,7 +73,7 @@
 # Training Procedure
 Using training.ipynb and config.yaml, you can train model using train_model function which takes model destination path (model_path), config.yaml file (config_yaml), epochs(total_epochs), image size (image_size) and device type (device_) as input and trains the model.
 
-**Note:** Please give full path of you dataset in config.yaml instead of giving relative path.
+**Note:** Please give full path of you dataset in config.yaml instead of giving a relative path.
 
 # Prediction procedure
 For prediction use function prediction which is present in prediction.ipynb. This function takes the model destination path, test data directory path as input, and returns boundary box parameters as output.
